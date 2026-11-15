@@ -1,0 +1,90 @@
+[
+  {
+    "id": "p1",
+    "name": "Bebedouro do Parque Trianon",
+    "type": "bebedouro",
+    "address": "Rua Peixoto Gomide, 949",
+    "neighborhood": "Bela Vista",
+    "hours": "Todos os dias, 6h às 18h",
+    "status": "funcionando",
+    "latitude": -23.5614,
+    "longitude": -46.6559
+  },
+  {
+    "id": "p2",
+    "name": "Praça Oswaldo Cruz (sombra)",
+    "type": "sombra",
+    "address": "Praça Oswaldo Cruz, s/n",
+    "neighborhood": "Paraíso",
+    "hours": "Aberto 24 horas",
+    "status": "funcionando",
+    "latitude": -23.5717,
+    "longitude": -46.6448
+  },
+  {
+    "id": "p3",
+    "name": "UBS Bela Vista",
+    "type": "ubs",
+    "address": "Rua Frei Caneca, 1100",
+    "neighborhood": "Bela Vista",
+    "hours": "Segunda a sexta, 7h às 19h",
+    "status": "funcionando",
+    "latitude": -23.5562,
+    "longitude": -46.6544
+  },
+  {
+    "id": "p4",
+    "name": "Estação Consolação do Metrô",
+    "type": "estacao",
+    "address": "Avenida Paulista, 2163",
+    "neighborhood": "Consolação",
+    "hours": "Todos os dias, 4h40 à meia-noite",
+    "status": "funcionando",
+    "latitude": -23.5577,
+    "longitude": -46.6608
+  },
+  {
+    "id": "p5",
+    "name": "Bebedouro da Praça do Ciclista",
+    "type": "bebedouro",
+    "address": "Avenida Paulista, 2439",
+    "neighborhood": "Consolação",
+    "hours": "Aberto 24 horas",
+    "status": "com_problema",
+    "latitude": -23.5553,
+    "longitude": -46.6626
+  },
+  {
+    "id": "p6",
+    "name": "Parque da Aclimação (sombra)",
+    "type": "sombra",
+    "address": "Rua Muniz de Sousa, 1119",
+    "neighborhood": "Aclimação",
+    "hours": "Todos os dias, 5h às 20h",
+    "status": "funcionando",
+    "latitude": -23.5714,
+    "longitude": -46.6299
+  },
+  {
+    "id": "p7",
+    "name": "Estação Brigadeiro do Metrô",
+    "type": "estacao",
+    "address": "Avenida Paulista, 33",
+    "neighborhood": "Bela Vista",
+    "hours": "Todos os dias, 4h40 à meia-noite",
+    "status": "funcionando",
+    "latitude": -23.5686,
+    "longitude": -46.6496
+  },
+  {
+    "id": "p8",
+    "name": "UBS Humaitá",
+    "type": "ubs",
+    "address": "Rua Humaitá, 520",
+    "neighborhood": "Bela Vista",
+    "hours": "Segunda a sexta, 7h às 19h",
+    "status": "funcionando",
+    "latitude": -23.5636,
+    "longitude": -46.6448
+  }
+]
