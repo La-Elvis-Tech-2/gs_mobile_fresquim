@@ -124,4 +124,4 @@ src/
 
 ## Vídeo
 
-_Link do YouTube (não listado): preencher_
+**[Assistir no YouTube](https://youtu.be/3HsvXgPVuqA)**
